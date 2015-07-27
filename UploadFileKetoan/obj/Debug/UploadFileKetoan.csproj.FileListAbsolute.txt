@@ -1,0 +1,4 @@
+D:\PhongHT\Websites\dev\UploadFileKetoan\UploadFileKetoan\bin\UploadFileKetoan.dll
+D:\PhongHT\Websites\dev\UploadFileKetoan\UploadFileKetoan\bin\UploadFileKetoan.pdb
+D:\PhongHT\Websites\dev\UploadFileKetoan\UploadFileKetoan\obj\Debug\UploadFileKetoan.dll
+D:\PhongHT\Websites\dev\UploadFileKetoan\UploadFileKetoan\obj\Debug\UploadFileKetoan.pdb
